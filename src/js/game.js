@@ -14,7 +14,6 @@ export default function game() {
     let random = randomizer();
     const current = document.querySelector('.hole__has-mole');
     const currentIndex = current.id;
-    console.log(random, parseInt(currentIndex));
     if (random === parseInt(currentIndex)) {
       random = randomizer();
     }
