@@ -1,0 +1,1 @@
+.board{width:600px;display:flex;flex-wrap:wrap;justify-content:space-around}.hole{width:100px;height:100px;margin:15px;border-radius:50%;background-color:#999}.hole__has-mole{background-image:url(2dbd01ce16c0fa83cb67e20c73dedb66.png);background-repeat:no-repeat;background-size:contain}
